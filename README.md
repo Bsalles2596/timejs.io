@@ -1,2 +1,2 @@
-# timejs.io
+# Timejs.io
 Cronometro
